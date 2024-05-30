@@ -48,13 +48,8 @@ This repository contains the code for an autonomous line-following robot equippe
 - Adjust the `DISTANSE` value for proximity detection as needed.
 
 ## Demonstration
-### Video Presentation
 
-<video width="640" height="480" controls>
-  <source src="the_robot_competition.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[![Video Presentation]](the_robot_competition.mp4)
 
 ![Robot Image](Car_Diagram.drawio.png)
 
