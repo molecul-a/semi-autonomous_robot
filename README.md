@@ -53,14 +53,15 @@ This repository contains the code for an autonomous line-following robot equippe
 
 ![Robot Image](Car_Diagram.drawio.png)
 
-## License
+## Construction
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+![Construction Image1](Car_Diagram.drawio.png)
+
+![Construction Image1](Car_Diagram.drawio.png)
+
+![Construction Image1](Car_Diagram.drawio.png)
 
 ## Contributions
 
 Contributions are welcome! Feel free to submit issues and pull requests to improve the functionality and performance of the robot.
 
-## Contact
-
-For any questions or feedback, please reach out to [Your Name] at [Your Email].
