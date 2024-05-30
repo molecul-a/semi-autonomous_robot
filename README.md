@@ -6,12 +6,12 @@ This repository contains the code for an autonomous line-following robot equippe
 
 <table>
   <tr>
-    <td><img src="the_robot_competition_1.gif"  width="500" height="300"/></td>
-    <td><img src="the_robot_competition_2.gif" width="500" height="300"/></td>
+    <td><img src="the_robot_competition_1.gif"  width="auto" height="300"/></td>
+    <td><img src="the_robot_competition_2.gif" width="auto" height="300"/></td>
   </tr>
   <tr>
-    <td><img src="the_robot_competition_3.gif" width="500" height="300"/></td>
-    <td><img src="the_robot_competition_1.gif" width="500" height="300"/></td>
+    <td><img src="the_robot_competition_3.gif" width="auto" height="300"/></td>
+    <td><img src="the_robot_competition_1.gif" width="auto" height="300"/></td>
   </tr>
 </table>
 
