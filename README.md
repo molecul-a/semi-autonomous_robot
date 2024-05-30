@@ -55,12 +55,13 @@ This repository contains the code for an autonomous line-following robot equippe
 
 ## Construction
 
-![Construction Image1](Car_Diagram.drawio.png)
+![Construction Image1](img_1.jpeg)
 
-![Construction Image1](Car_Diagram.drawio.png)
+![Construction Image1](img_2.jpeg)
 
-![Construction Image1](Car_Diagram.drawio.png)
+![Construction Image1](img_3.jpeg)
 
+![Construction Image1](img_4.jpeg)
 ## Contributions
 
 Contributions are welcome! Feel free to submit issues and pull requests to improve the functionality and performance of the robot.
