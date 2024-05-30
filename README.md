@@ -51,7 +51,7 @@ This repository contains the code for an autonomous line-following robot equippe
 ### Video Presentation
 
 <video width="640" height="480" controls>
-  <source src="the_robot_competition.45.mp4" type="video/mp4">
+  <source src="the_robot_competition.45" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
