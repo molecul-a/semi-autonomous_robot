@@ -4,6 +4,17 @@
 
 This repository contains the code for an autonomous line-following robot equipped with obstacle detection capabilities, built using an Arduino Uno. The robot uses QTR sensors to follow a line and the APDS9960 sensor to detect obstacles in its path. When an obstacle is detected, the robot stops and displays the detected color using an RGB LED.
 
+<table>
+  <tr>
+    <td><img src="the_robot_competition_1.gif"  width="200" height="200"/></td>
+    <td><img src="the_robot_competition_2.gif" width="200" height="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="the_robot_competition_3.gif" width="200" height="200"/></td>
+    <td><img src="the_robot_competition_1.gif" width="200" height="200"/></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Line Following:** Uses QTR sensors to follow a predefined line on the ground.
